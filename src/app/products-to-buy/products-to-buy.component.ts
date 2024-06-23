@@ -24,7 +24,7 @@ import { CommonModule } from '@angular/common';
     <div class="w-full md:w-2/5 mx-auto my-5">
       <div class="flex justify-between">
         <button class="btn lg:btn-wide">
-          Completati
+          Acquistati
           <div class="badge badge-accent">{{ completedProducts() }}</div>
         </button>
         <button class="btn lg:btn-wide">
